@@ -1,0 +1,9 @@
+{
+  "network": "studio-dev",
+  "chainId": 61997,
+  "address": "0xCBbBB8740ddB2DDF9438cf1b4fE2888eA5EBa4dd",
+  "deployTx": "0x97ec267c184c246cd4df12772431c0866be6a255a0a1b872dc55100521f1bbce",
+  "deployer": "0xa25a0754cCa4c3430e11E455F52FFF7130DCb906",
+  "deployedAtUtc": "2026-11-21T01:xxZ (demo run; see demo-run.json)",
+  "note": "Latest verified deployment \u2014 from the end-to-end demo run in deployments/demo-run.json"
+}

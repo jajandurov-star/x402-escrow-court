@@ -1,0 +1,34 @@
+{
+  "dealId": "deal-1",
+  "amountWei": "1000000000000000",
+  "contract": "0xCBbBB8740ddB2DDF9438cf1b4fE2888eA5EBa4dd",
+  "deployTx": "0x97ec267c184c246cd4df12772431c0866be6a255a0a1b872dc55100521f1bbce",
+  "x402Offer": {
+    "scheme": "eip3009",
+    "network": "genlayer-studio-61997",
+    "amount": "1000000000000000",
+    "asset": "GEN",
+    "payTo": "0xCBbBB8740ddB2DDF9438cf1b4fE2888eA5EBa4dd",
+    "description": "Agent Market Brief #42 — SOL DeFi yields, LST comparison, risk notes",
+    "mimeType": "application/json",
+    "maxTimeoutSeconds": 3600
+  },
+  "fundTx": "0x2baa88b298f16c1d4f9e5e31f25f6cf35e9600cc2e0bced78bca604f8ab7c41f",
+  "deliveryTx": "0xe027520f66b49080720a73ec3559ddc2feda621571f5a5af36871bd9e8687012",
+  "disputeTx": "0xfe16b71d0bad8b4ec291a1ab6668ada36017accf4c248baba2b7d8fe7cdbd848",
+  "judgeTx": "0x37660797508773438c6fbc69bea04ebb550e361efda56ddd3f4a326db4253eac",
+  "finalDeal": {
+    "deal_id": "deal-1",
+    "status": "RELEASED",
+    "buyer": "0xa25a0754cCa4c3430e11E455F52FFF7130DCb906",
+    "seller": "0xE13641FcCd5d7AA40D6F6B6C3D70081d4f512D0d",
+    "amount_wei": "1000000000000000",
+    "agreement": "Deliver Agent Market Brief #42 covering: (1) top-3 SOL DeFi yields with APYs, (2) a SOL liquid-staking comparison of at least 3 LSTs, (3) risk notes. Delivery within this session as JSON.",
+    "evidence": "Delivered Agent Market Brief #42: top-3 SOL DeFi yields (Kamino 8.2%, Marginfi 7.1%, Drift 6.4%); LST comparison (jitoSOL vs mSOL vs bSOL: APY, fees, liquidity); risk notes (smart-contract risk, depeg risk, validator concentration).",
+    "reason": "The brief is missing the promised SOL liquid-staking comparison section.",
+    "verdict": "RELEASE – the brief includes the required top‑3 SOL DeFi yields, a comparison of three SOL liquid‑staking tokens (jitoSOL, mSOL, bSOL), and risk notes, thus fulfilling the agreement."
+  },
+  "buyerBalanceAfterWei": "24994539861749971780",
+  "sellerBalanceAfterWei": "20001287919749992593",
+  "escrowBalanceAfterWei": "0"
+}
